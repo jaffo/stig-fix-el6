@@ -1,0 +1,3 @@
+This fork is where I contribute changes, additions, and additional documentation to the master project.
+Specifically, I am working towards modifying these scripts and tools for CentOS 6.
+I will also be adding additional references to new DISA and other guidance documents. The original master items are all referenced to the GENERAL guidance for Linux/UNIX hardening, but since their creation DISA has released OS specific guidance for RHEL, with new identifiers. I plan to reference the scripts to ALL guidance documents they pertain to, if I can.
